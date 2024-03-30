@@ -88,7 +88,7 @@ class Looper:
              
             # GET remote IMAGE
             #if remote stream rtsp
-            cap = cv2.VideoCapture("rtsp://admin:Misincu2b@86.228.137.47:554/12")
+            cap = cv2.VideoCapture("rtsp://")
             ret, img = cap.read()
             if (ret != True):
                 break
