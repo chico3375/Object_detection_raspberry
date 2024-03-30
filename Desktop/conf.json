@@ -1,12 +1,12 @@
 {
     "use_dropbox": true,
-    "dropbox_access_token": "2uv6MVNQ_W4AAAAAAAABUOXXoe6zvSdOkX61q3t5Q85b0K1mRlz5Xf7AjwD5ws5W",
+    "dropbox_access_token": "",
     "dropbox_base_path": "Videos",
     "min_upload_seconds": 30.0 ,
     "count_time": 432000 ,
     "url_cam": "http://192.168.1.79",
-    "free_access_token": "17445073",
-    "free_password": "OcuZwdu10gy2cj",
+    "free_access_token": "",
+    "free_password": "",
     "cam_login": "admin",
-    "cam_password": "foscam2bext"
+    "cam_password": ""
 }
