@@ -1,12 +1,12 @@
 {
     "use_dropbox": true,
-    "dropbox_access_token": "",
+    "dropbox_access_token": "9999",
     "dropbox_base_path": "Videos",
     "min_upload_seconds": 30.0 ,
     "count_time": 432000 ,
     "url_cam": "http://192.168.1.79",
-    "free_access_token": "",
-    "free_password": "",
+    "free_access_token": "9999",
+    "free_password": "xxxx",
     "cam_login": "admin",
-    "cam_password": ""
+    "cam_password": "xxxx"
 }
