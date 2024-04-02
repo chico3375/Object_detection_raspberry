@@ -89,7 +89,7 @@ def VideoStreamDetect(queue, event ):
         
         img = queue.get()
         
-        result, objectInfo, tilt = getObjects(img,0.55,0.2, objects=['person'] )
+        result, objectInfo, tilt = getObjects(img,0.45,0.2, objects=['person'] )
         
         if (tilt == True):                   
             #p = threading.Thread(target=person, args=(img))
